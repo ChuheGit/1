@@ -1,0 +1,7 @@
+payload:
+  # > NeteaseMusic
+  - DOMAIN-SUFFIX,music.126.net
+  - DOMAIN-SUFFIX,music.163.com
+  - IP-CIDR,59.111.128.0/17
+  - IP-CIDR,115.236.112.0/20
+  - IP-CIDR,223.252.192.0/19

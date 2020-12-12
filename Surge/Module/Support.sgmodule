@@ -1,0 +1,16 @@
+#!name=Support
+#!desc=用于辅助其他模块
+#!system=ios
+
+[MITM]
+hostname = %APPEND% *.youth.cn, ios.baertt.com, draw.jdfcloud.com, jdjoy.jd.com, draw.jdfcloud.com
+
+[Script]
+中青看点获取body = type=http-request, pattern=https://ios.baertt.com/v5/article/complete.json, script-path=https://raw.githubusercontent.com/songyangzz/QuantumultX/master/zqgetbody.js, requires-body=1
+
+宠汪汪强制为别人助力= type=http-request,pattern= ^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/pet\/enterRoom\/h5\?reqSource=weapp&invitePin=.*+(&inviteSource=task_invite&shareSource=\w+&inviteTimeStamp=\d+&openId=\w+)?|^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/pet\/helpFriend\?friendPin,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_help.js
+
+宠汪汪助力更新Token = type=http-response,pattern=^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/addUser\?code=, requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js
+宠汪汪助力获取Token = type=http-request,pattern=^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/user\/detail\?openId=, requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_run.js
+
+聚宝盆投狗粮辅助 = type=http-response,pattern=^https:\/\/jdjoy\.jd\.com\/pet\/getPetTreasureBox|^https:\/\/draw\.jdfcloud\.com\/\/pet\/getPetTreasureBox,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_petTreasureBox.js

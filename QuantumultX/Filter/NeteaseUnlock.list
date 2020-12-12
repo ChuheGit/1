@@ -1,0 +1,12 @@
+# > NeteaseUnlock
+user-agent, NeteaseMusic*, direct
+user-agent, NeteaseMusic**, direct
+user-agent, 网易云音乐*, direct
+user-agent, 网易云音乐**, direct
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, direct
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, direct
+host-suffix, music.126.net, direct
+host-suffix, music.163.com, direct
+ip-cidr, 59.111.128.0/17, direct
+ip-cidr, 115.236.112.0/20, direct
+ip-cidr, 223.252.192.0/19, direct
