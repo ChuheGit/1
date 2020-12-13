@@ -132,6 +132,8 @@
 
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` 
 
+  `https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/ziye.boxjs.json`
+  
   > BoxJs 教程：https://chavyleung.gitbook.io/boxjs/
 
 ## 鸣谢
