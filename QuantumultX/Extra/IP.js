@@ -1,5 +1,5 @@
 if ($response.statusCode != 200) {
-  $done(Null);
+  $done(null);
 }
 
 var body = $response.body;
@@ -7,7 +7,7 @@ var obj = JSON.parse(body);
 var title = obj['country'];
 var subtitle = obj['city'] + ' ' + obj['isp'];
 var ip = obj['query'];
-var description = "地区" + ":" + obj['country'] + '\n' + "城市" + ":" + obj['city'] + '\n' + "运营商" + ":" + obj['isp'] + '\n' + "数据中心" + ":" + obj['org'];
+var description = '服务商:'+obj['isp'] + '\n'+'地区:' +City_ValidCheck(obj['regionName'])+ '\n' + 'IP:'+ obj['query'] + '\n' +'时区:'+ obj['timezone'];
 
 
 $done({title, subtitle, ip, description});
