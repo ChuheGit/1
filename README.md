@@ -84,16 +84,16 @@
   - [东东工厂](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jdfactory.js)
   - [点点券](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_necklace.js)
   - [十元街](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js)
-  - [~~金榜年终奖~~](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_split.js)
+  - ~~金榜年终奖~~
   - [秒杀红包雨](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ms_redrain.js)
   - [领京豆额外奖励](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js)
   - [京东汽车](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js)
   - [健康抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js)
   - [京东快递签到](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js)
-  - [~~数码加购京豆~~](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_digital_floor.js)
-  - [~~直播红包雨~~](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js)
+  - ~~数码加购京豆~~
+  - ~~直播红包雨~~
   - [苹果抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js)
-  - [PUBG](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pubg.js)
+  - ~~PUBG~~
   - [京东直播](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js)
   - [京东金融-天天提鹅](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js)
   - [京东金融-养猪猪](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js)
@@ -101,7 +101,7 @@
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
   - [京喜工厂plus](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js)
-  - [~~京喜金牌厂长~~](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_story.js)
+  - ~~京喜金牌厂长~~
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js)
 
