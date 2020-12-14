@@ -75,8 +75,6 @@
 
 直播红包雨 = type=cron,cronexp=0 0,9,11,13,15,17,19,20,21,23 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js
 
-苹果抽奖机 = type=cron,cronexp=10 0 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js
-
 京东直播 = type=cron,cronexp=10-20/5 12 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js
 
 京东金融-天天提鹅 = type=cron,cronexp=0 */3 * * *,wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js
