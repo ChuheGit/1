@@ -92,11 +92,12 @@
   - [京东快递签到](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js)
   - ~~数码加购京豆~~
   - [直播红包雨](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js)
-  - [苹果抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js)
+  - ~~苹果抽奖机~~
   - ~~PUBG~~
   - [京东直播](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js)
   - [京东金融-天天提鹅](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js)
   - [京东金融-养猪猪](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js)
+  - [金融打卡领年终奖](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
