@@ -91,7 +91,7 @@
   - [健康抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js)
   - [京东快递签到](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js)
   - ~~数码加购京豆~~
-  - ~~直播红包雨~~
+  - [直播红包雨](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js)
   - [苹果抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js)
   - ~~PUBG~~
   - [京东直播](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js)
