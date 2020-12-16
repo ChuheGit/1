@@ -34,4 +34,4 @@ hostname = %APPEND% daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.xim
 
 惠头条 = type=http-request,pattern=https:\/\/api\.cashtoutiao\.com,script-path=https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_cookie.js, requires-body=1
 
-葱花视频 = type=http-request,pattern=https:\/\/app.kxp.com\/video\/v1\/video\/complete,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/conghuabody.js, requires-body=1
+葱花视频 = type=http-request,pattern=https://app.kxp.com/video/v1/video/complete,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/conghuabody.js, requires-body=1
