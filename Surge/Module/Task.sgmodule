@@ -107,5 +107,3 @@
 企鹅读书 = type=cron,cronexp="*/11 * * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
 
 惠头条 = type=cron,cronexp="*/2 0-16 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_task_4.js
-
-返利网红包 = type=cron,cronexp="0 1-16 10 5,9,10,11,12 * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js

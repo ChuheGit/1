@@ -113,7 +113,7 @@
   - [电视家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js)
   - [企鹅读书](https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js)
   - [惠头条](https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_task_4.js)
-  - [返利网红包](https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js)
+  - ~~返利网红包~~
 
 
 

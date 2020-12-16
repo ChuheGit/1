@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM]
-hostname = %APPEND% daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.ximalaya.com, *.rrys2020.com, ios.zmzapi.com, ifac*.iqiyi.com, api.m.jd.com, draw.jdfcloud.com, *.youth.cn, ios.baertt.com, mqqapi.reader.qq.com, commontgw6.reader.qq.com, eventv3.reader.qq.com, api.cashtoutiao.com, huodong.fanli.com
+hostname = %APPEND% daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.ximalaya.com, *.rrys2020.com, ios.zmzapi.com, ifac*.iqiyi.com, api.m.jd.com, draw.jdfcloud.com, *.youth.cn, ios.baertt.com, mqqapi.reader.qq.com, commontgw6.reader.qq.com, eventv3.reader.qq.com, api.cashtoutiao.com
 
 [Script]
 京东到家 = type=http-request,pattern=https:\/\/daojia\.jd\.com\/client\?_jdrandom=\d{13}&functionId=%2Fsignin,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js
@@ -33,5 +33,3 @@ hostname = %APPEND% daojia.jd.com, *.rr.tv, *.video.qq.com, v.qq.com, mobwsa.xim
 企鹅读书获取时长 = type=http-request,pattern=https:\/\/mqqapi\.reader\.qq\.com\/mqq\/addReadTimeWithBid?,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
 
 惠头条 = type=http-request,pattern=https:\/\/api\.cashtoutiao\.com,script-path=https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_cookie.js, requires-body=1
-
-返利网红包 = type=http-request,pattern=https:\/\/huodong\.fanli\.com\/h5\/Fanlishare20201212\/ajax,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js
