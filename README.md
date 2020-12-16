@@ -26,7 +26,7 @@
 
   `https://dove.589669.xyz/task2qxgallery?sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule&img=1`
 
-  > 此 API 可将 Surge 的远程模块转换为 Quantumult X 的 gallery 链接格式，img 参数可自动匹配 Task 图标，图标位于 [API-Icon](https://github.com/ChuheGit/1/tree/main/QuantumultX/Gallery/API-Icon) 文件夹下，大家可以一起完善图标库（可以连同脚本一起提交），要求图片为 108x108 尺寸的 PNG 格式，图片名称需同脚本名称一致，如 JD.js 对应 JD.png
+  > 此 API 可将 Surge 的远程模块转换为 Quantumult X 的 gallery 链接格式，img 参数可自动匹配 Task 图标，欢迎可以一起完善图标库（可以连同脚本一起提交），要求图片为 108x108 尺寸的 PNG 格式，图片名称需同脚本名称一致，如 JD.js 对应 JD.png
   >
   > 提交请联系 TG: [@ChuheBot](https://t.me/ChuheBot)
 
@@ -113,6 +113,7 @@
   - [电视家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js)
   - [企鹅读书](https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js)
   - [惠头条](https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/HTT/htt_task_4.js)
+  - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - ~~返利网红包~~
 
 
