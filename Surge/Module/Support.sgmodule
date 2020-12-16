@@ -1,9 +1,9 @@
 #!name=Support
-#!desc=用于辅助其他模块
+#!desc=辅助其他任务，无需禁用
 #!system=ios
 
 [MITM]
-hostname = %APPEND% draw.jdfcloud.com, jdjoy.jd.com, *.youth.cn, ios.baertt.com
+hostname = %APPEND% draw.jdfcloud.com, jdjoy.jd.com, *.youth.cn, ios.baertt.com, app.kxp.com
 
 [Script]
 宠汪汪强制为别人助力= type=http-request,pattern= ^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/pet\/enterRoom\/h5\?reqSource=weapp&invitePin=.*+(&inviteSource=task_invite&shareSource=\w+&inviteTimeStamp=\d+&openId=\w+)?|^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/pet\/helpFriend\?friendPin,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_help.js
@@ -14,3 +14,5 @@ hostname = %APPEND% draw.jdfcloud.com, jdjoy.jd.com, *.youth.cn, ios.baertt.com
 聚宝盆投狗粮辅助 = type=http-response,pattern=^https:\/\/jdjoy\.jd\.com\/pet\/getPetTreasureBox|^https:\/\/draw\.jdfcloud\.com\/\/pet\/getPetTreasureBox,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_petTreasureBox.js
 
 中青看点获取body = type=http-request, pattern=https://ios.baertt.com/v5/article/complete.json, script-path=https://raw.githubusercontent.com/songyangzz/QuantumultX/master/zqgetbody.js, requires-body=1
+
+葱花视频 = type=http-request,pattern=https://app.kxp.com/video/v1/video/complete,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/conghuabody.js, requires-body=1
