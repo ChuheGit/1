@@ -95,6 +95,7 @@
   - ~~苹果抽奖机~~
   - ~~PUBG~~
   - [京东直播](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js)
+  - [京东看一看](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js)
   - [京东金融-天天提鹅](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js)
   - [京东金融-养猪猪](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js)
   - [金融打卡领年终奖](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js)
