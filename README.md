@@ -113,7 +113,6 @@
   - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
   - [电视家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js)
   - [企鹅读书](https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js)
-  - [腾讯新闻](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js)
   - ~~惠头条~~
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - ~~返利网红包~~
@@ -123,6 +122,8 @@
 ## 补充说明
 
 - 脚本部分功能需要搭配作者的 BoxJs 订阅使用
+
+  > 教程：https://chavyleung.gitbook.io/boxjs/
 
   `https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json`
 
@@ -135,10 +136,8 @@
   `https://raw.githubusercontent.com/whyour/hundun/master/quanx/whyour.boxjs.json`
 
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` 
-
-  `https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/ziye.boxjs.json`
   
-  > BoxJs 教程：https://chavyleung.gitbook.io/boxjs/
+  `https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/ziye.boxjs.json`
 
 ## 鸣谢
 
