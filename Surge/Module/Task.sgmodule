@@ -108,6 +108,9 @@
 
 电视家 = type=cron,cronexp="0 8 0 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js
 
+快手极速版 = type=cron,cronexp="35 5 0 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js
+
 企鹅读书 = type=cron,cronexp="*/11 * * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
 
 葱花视频 = type=cron,cronexp="*/10 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js
+
