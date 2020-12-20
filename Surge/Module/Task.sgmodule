@@ -112,5 +112,6 @@
 
 企鹅读书 = type=cron,cronexp="*/11 * * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
 
-葱花视频 = type=cron,cronexp="*/10 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js
+今日头条极速版 = type=cron,cronexp="5,35 8-21 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/iepngs/Script/master/jrtt/index.js
 
+葱花视频 = type=cron,cronexp="*/10 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js
