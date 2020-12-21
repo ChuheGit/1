@@ -106,6 +106,7 @@
   - ~~京喜金牌厂长~~
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js)
+  - [疯狂的 JOY](https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/archive/JD/crazyjoy.js)
 
 - #### 薅
 
