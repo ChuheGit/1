@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM]
-hostname = %APPEND% daojia.jd.com, *.rr.tv, *.video.qq.com,v.qq.com, mobwsa.ximalaya.com, *.rrys2020.com,ios.zmzapi.com, ifac*.iqiyi.com, api.m.jd.com, api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,pay.diditaxi.com.cn, *.youth.cn,ios.baertt.com, nebula.kuaishou.com, mqqapi.reader.qq.com,commontgw6.reader.qq.com,eventv3.reader.qq.com
+hostname = %APPEND% daojia.jd.com, *.rr.tv, *.video.qq.com,v.qq.com, mobwsa.ximalaya.com, *.rrys2020.com,ios.zmzapi.com, ifac*.iqiyi.com, api.m.jd.com, *.youth.cn,ios.baertt.com, nebula.kuaishou.com, mqqapi.reader.qq.com,commontgw6.reader.qq.com,eventv3.reader.qq.com, api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,pay.diditaxi.com.cn
 
 [Script]
 京东到家 = type=http-request,pattern=https:\/\/daojia\.jd\.com\/client\?_jdrandom=\d{13}&functionId=%2Fsignin,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js
@@ -21,12 +21,6 @@ hostname = %APPEND% daojia.jd.com, *.rr.tv, *.video.qq.com,v.qq.com, mobwsa.xima
 
 京东 = type=http-request, pattern=https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
-滴滴出行_获取Token = type=http-request,pattern=^https?:\/\/api\.didialift\.com\/beatles\/userapi\/user\/user\/getuserinfo?.*city_id=(\d+).*token=([^&]*),script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
-滴滴出行_获取Ticket = type=http-request,pattern=^https?:\/\/as\.xiaojukeji\.com\/ep\/as\/toggles\?.*location_cityid=(\d+).*&ticket=([^&]*),script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,pattern=^https?:\/\/as\.xiaojukeji\.com\/ep\/as\/toggles\?.*location_cityid=(\d+).*&ticket=([^&]*)
-滴滴出行_获取LotteryId = type=http-request,pattern=^https?:\/\/bosp-api\.xiaojukeji\.com\/bosp-api\/lottery\/info?.*lid=([^&]*),script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
-滴滴金融_获取ActivityId与ChannelId = type=http-response,pattern=^https?:\/\/pay\.diditaxi\.com\.cn\/web_wallet\/v2\/wallet\/home,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
-滴滴出行_获取GroupId = type=http-response,pattern=^https?:\/\/bosp-api\.xiaojukeji\.com\/wechat\/benefit\/public\/v2\/index,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
-
 中青看点 = type=http-request,pattern=https:\/\/\w+\.youth\.cn\/TaskCenter\/(sign|getSign),script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
 中青看点 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/article\/complete,requires-body=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
 中青看点 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/article\/red_packet,requires-body=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
@@ -40,3 +34,9 @@ hostname = %APPEND% daojia.jd.com, *.rr.tv, *.video.qq.com,v.qq.com, mobwsa.xima
 
 企鹅读书获取更新body = type=http-request,pattern=https:\/\/mqqapi\.reader\.qq\.com\/log\/v4\/mqq\/track,requires-body=1,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
 企鹅读书获取时长 = type=http-request,pattern=https:\/\/mqqapi\.reader\.qq\.com\/mqq\/addReadTimeWithBid?,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
+
+滴滴出行_获取Token = type=http-request,pattern=^https?:\/\/api\.didialift\.com\/beatles\/userapi\/user\/user\/getuserinfo?.*city_id=(\d+).*token=([^&]*),script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
+滴滴出行_获取Ticket = type=http-request,pattern=^https?:\/\/as\.xiaojukeji\.com\/ep\/as\/toggles\?.*location_cityid=(\d+).*&ticket=([^&]*),script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,pattern=^https?:\/\/as\.xiaojukeji\.com\/ep\/as\/toggles\?.*location_cityid=(\d+).*&ticket=([^&]*)
+滴滴出行_获取LotteryId = type=http-request,pattern=^https?:\/\/bosp-api\.xiaojukeji\.com\/bosp-api\/lottery\/info?.*lid=([^&]*),script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
+滴滴金融_获取ActivityId与ChannelId = type=http-response,pattern=^https?:\/\/pay\.diditaxi\.com\.cn\/web_wallet\/v2\/wallet\/home,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
+滴滴出行_获取GroupId = type=http-response,pattern=^https?:\/\/bosp-api\.xiaojukeji\.com\/wechat\/benefit\/public\/v2\/index,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
