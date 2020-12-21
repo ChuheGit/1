@@ -99,6 +99,8 @@
 
 京喜财富岛 = type=cron,cronexp="30 23 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js
 
+疯狂的 JOY = type=cron,cronexp="6 0,12 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/archive/JD/crazyjoy.js
+
 # 薅
 中青看点极速版 = type=cron,cronexp="0 */10 5-20 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
 
