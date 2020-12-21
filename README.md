@@ -118,6 +118,7 @@
   - ~~惠头条~~
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - ~~返利网红包~~
+  - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
 
 
 
