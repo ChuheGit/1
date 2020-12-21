@@ -4,19 +4,21 @@
 
 [Script]
 # 签到
-京东到家 = type=cron,cronexp="4 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js
+京东到家 = type=cron,cronexp="0 0 7 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js
 
-人人视频 = type=cron,cronexp="6 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js
+人人视频 = type=cron,cronexp="2 0 7 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js
 
-腾讯视频 = type=cron,cronexp="8 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js
+腾讯视频 = type=cron,cronexp="4 0 7 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js
 
-喜马拉雅 = type=cron,cronexp="10 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js
+喜马拉雅 = type=cron,cronexp="6 0 7 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js
 
-字幕组 = type=cron,cronexp="12 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js
+字幕组 = type=cron,cronexp="8 0 7 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js
 
-爱奇艺 = type=cron,cronexp="14 20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+爱奇艺 = type=cron,cronexp="10 0 7 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
 
-京东 = type=cron,cronexp="16 20 9 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+京东 = type=cron,cronexp="12 0 7 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+
+滴滴出行 = type=cron,cronexp="20 0 7 * * *",wake-system=1,timeout=120,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
 
 # 京东活动
 东东农场 = type=cron,cronexp="5 6-18/6 * * *",wake-system=1,timeout=120,script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js
