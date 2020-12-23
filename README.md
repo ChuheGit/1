@@ -112,7 +112,7 @@
   - [京东金融-养猪猪](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js)
   - [金融打卡领年终奖](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js)
   - [注销京东会员卡](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js)
-  - CrazyJoy[任务](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js)
+  - [CrazyJoy任务](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
@@ -120,7 +120,7 @@
   - ~~京喜金牌厂长~~
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js)
-  - [疯狂的 JOY](https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/archive/JD/crazyjoy.js)
+  - ~~疯狂的 JOY~~
 
 - #### 薅
 
@@ -178,6 +178,7 @@
   - [yangtingxiao](https://github.com/yangtingxiao/QuantumultX/tree/master)
   - [songyangzz](https://github.com/songyangzz/QuantumultX/tree/master)
   - [MoPoQAQ](https://github.com/MoPoQAQ/Script/tree/main)
+  - [elecV2](https://github.com/elecV2/QuantumultX-Tools)
   - [CenBoMin](https://github.com/CenBoMin/QuantumultX/tree/master)
 
 - #### 图标
