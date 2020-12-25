@@ -14,7 +14,7 @@
 
   - 京东合集（仅包含京东任务）
 
-    `https://dove.589669.xyz/subfilter?&sub=https%3A%2F%2Fraw.githubusercontent.com%2FChuheGit%2F1%2Fmain%2FSurge%2FModule%2FTask.sgmodule&filter=jd_%7Cjx_%7CJD&inline=1`
+    `https://dove.589669.xyz/subfilter?filter=jd_%7Cjx_%7CJD&inline=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
 - #### 需要搭配下面两个 Module 使用
 
@@ -32,11 +32,11 @@
 
   - 任务合集（包含下方整个资源列表）
 
-    `https://dove.589669.xyz/task2qxgallery?sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule&img=1`
+    `https://dove.589669.xyz/task2qxgallery?img=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
   - 京东合集（仅包含京东任务）
 
-    `https://dove.589669.xyz/task2qxgallery?sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule&img=1&filter=jd_%7Cjx_%7CJD`
+    `https://dove.589669.xyz/task2qxgallery?filter=jd_%7Cjx_%7CJD&img=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
     > 此 API 可将 Surge 的远程模块转换为 Quantumult X 的 gallery 链接格式，img 参数可自动匹配 Task 图标，欢迎共同完善图标库（可连同脚本一起提交），要求图片为 108x108 尺寸的 PNG 格式，图片名称需同脚本名称一致，如 JD.js 对应 JD.png
     >
