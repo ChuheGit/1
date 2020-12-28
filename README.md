@@ -117,6 +117,7 @@
   - [金融打卡领年终奖](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js)
   - [注销京东会员卡](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js)
   - [CrazyJoy任务](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js)
+  - ~~CrazyJoy挂机~~
   - [小米运动](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
@@ -125,7 +126,6 @@
   - ~~京喜金牌厂长~~
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js)
-  - ~~疯狂的 JOY~~
 
 - #### 薅
 
