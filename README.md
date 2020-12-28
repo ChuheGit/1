@@ -132,7 +132,7 @@
   - [中青看点](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
-  - [企鹅读书](https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js)
+  - [企鹅读书](https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js)
   - ~~惠头条~~
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - ~~返利网红包~~
