@@ -1,6 +1,6 @@
 ## 简介
 
-- 意在以自动任务合集的方式协助大家薅羊毛，具体实现过程如获取 cookie 方式和活动入口等需参照脚本内或源项目地址说明。
+- 以自动任务合集的方式协助大家薅羊毛，具体实现过程如获取 cookie 方式和活动入口等需参照脚本内或源项目地址说明。
 
 ## 使用说明
 
@@ -64,7 +64,11 @@
 
 - #### 签到
 
+  - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
+  - [电视家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js)
   - [京东到家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js)
+  - [京喜](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js)
+  - [快手极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js)
   - [人人视频](https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js)
   - [腾讯视频](https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js)
   - [喜马拉雅](https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js)
@@ -127,15 +131,10 @@
   - [中青看点](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
-  - [电视家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js)
-  - [快手极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js)
   - [企鹅读书](https://raw.githubusercontent.com/ziye12/JavaScript/master/qqread.js)
   - ~~惠头条~~
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - ~~返利网红包~~
-  - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
-
-
 
 ## 补充说明
 
