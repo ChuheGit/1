@@ -65,11 +65,13 @@
 - #### 签到
 
   - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
+  - [百度极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js)
   - [电视家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js)
   - [京东到家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js)
   - [京喜](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js)
   - [快手极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js)
   - [人人视频](https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js)
+  - [百度贴吧](https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js)
   - [腾讯视频](https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js)
   - [喜马拉雅](https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js)
   - [字幕组](https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js)
