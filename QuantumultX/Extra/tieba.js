@@ -1,3 +1,5 @@
+// 修改自chavy大佬 https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Extra/tieba.js （就改了两个emoji）
+
 const $ = new Env('百度签到')
 $.VAL_cookies = $.getdata('chavy_cookie_tieba') || $.getdata('CookieTB')
 

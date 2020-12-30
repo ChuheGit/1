@@ -16,7 +16,7 @@
 
 人人视频 = type=cron,cronexp="20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js
 
-百度贴吧 = type=cron,cronexp="20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js
+百度贴吧 = type=cron,cronexp="20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Extra/tieba.js
 
 腾讯视频 = type=cron,cronexp="20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js
 
@@ -108,6 +108,8 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 抽奖机 = type=cron,cronexp="11 1 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js
 
 排行榜 = type=cron,cronexp="11 9 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js
+
+白条领券 = type=cron,cronexp="0 0,9 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js
 
 京喜工厂plus = type=cron,cronexp="0 1,18 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js
 

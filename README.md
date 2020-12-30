@@ -122,6 +122,7 @@
   - [小米运动](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
+  - [白条领券](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js)
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
   - [京喜工厂plus](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js)
   - ~~京喜金牌厂长~~
