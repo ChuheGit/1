@@ -65,7 +65,6 @@
 - #### 签到
 
   - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
-  - [百度极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js)
   - [电视家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/dianshijia.js)
   - [京东到家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js)
   - [京喜](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js)
@@ -77,7 +76,7 @@
   - [字幕组](https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js)
   - [爱奇艺](https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js)
   - [京东](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js)
-
+  
 - #### 京东活动
 
   - [东东农场](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js)
@@ -131,6 +130,7 @@
 
 - #### 薅
 
+  - [百度极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js)
   - [中青看点](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
