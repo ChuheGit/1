@@ -132,7 +132,7 @@
 - #### 薅
 
   - [百度极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js)
-  - [聚看点极速版](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.cookie.js)
+  - [聚看点极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js)
   - [中青看点](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
