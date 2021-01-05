@@ -139,7 +139,7 @@
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
   - [企鹅读书](https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js)
   - ~~惠头条~~
-  - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
+  - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
   - ~~返利网红包~~
   - [抖音极速版](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js)
 
