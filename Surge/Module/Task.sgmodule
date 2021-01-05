@@ -112,7 +112,7 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 聚看点极速版 = type=cron,cronexp="*/20 5-23 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js
 
-中青看点极速版 = type=cron,cronexp="0 */10 5-20 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
+中青看点极速版 = type=cron,cronexp="*/10 5-20 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
 
 中青自动阅读 = type=cron,cronexp="0 5-23 * * *",wake-system=1,timeout=7200,script-path=https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js
 
