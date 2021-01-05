@@ -102,7 +102,7 @@
   - [点点券](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_necklace.js)
   - [十元街](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_syj.js)
   - ~~金榜年终奖~~
-  - [秒杀红包雨](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ms_redrain.js)
+  - ~~秒杀红包雨~~
   - [领京豆额外奖励](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js)
   - [京东汽车](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js)
   - [健康抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js)
@@ -112,10 +112,10 @@
   - ~~苹果抽奖机~~
   - ~~PUBG~~
   - [京东直播](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js)
-  - [京东看一看](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js)
+  - ~~京东看一看~~
   - [京东金融-天天提鹅](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_daily_egg.js)
   - [京东金融-养猪猪](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js)
-  - [金融打卡领年终奖](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js)
+  - ~~金融打卡领年终奖~~
   - [注销京东会员卡](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js)
   - [CrazyJoy任务](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js)
   - ~~CrazyJoy挂机~~
@@ -140,6 +140,7 @@
   - ~~惠头条~~
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - ~~返利网红包~~
+  - [抖音极速版](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js)
 
 ## 补充说明
 
