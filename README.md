@@ -95,6 +95,7 @@
   - [进店领豆](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_shop.js)
   - [摇京豆](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_club_lottery.js)
   - [京东全民开红包](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_redPacket.js)
+  - ~~京东健康~~
   - [京豆变动通知](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_change.js)
   - [京喜工厂](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_dreamFactory.js)
   - [东东小窝](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_small_home.js)
@@ -108,7 +109,7 @@
   - [健康抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js)
   - [京东快递签到](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js)
   - ~~数码加购京豆~~
-  - [直播红包雨](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js)
+  - ~~直播红包雨~~
   - ~~苹果抽奖机~~
   - ~~PUBG~~
   - [京东直播](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js)
