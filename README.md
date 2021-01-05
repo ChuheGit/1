@@ -162,6 +162,8 @@
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` 
   
   `https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/ziye.boxjs.json`
+  
+  `https://raw.githubusercontent.com/CenBoMin/GithubSync/main/cenbomin.box.json`
 
 ## 鸣谢
 
