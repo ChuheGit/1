@@ -106,6 +106,7 @@
   - ~~秒杀红包雨~~
   - [领京豆额外奖励](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js)
   - [京东汽车](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js)
+  - [京东汽车兑换](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car_exchange.js)
   - [健康抽奖机](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js)
   - [京东快递签到](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_kd.js)
   - ~~数码加购京豆~~
