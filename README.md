@@ -121,6 +121,7 @@
   - [注销京东会员卡](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js)
   - [CrazyJoy任务](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js)
   - ~~CrazyJoy挂机~~
+  - [口袋书店](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bookshop.js)
   - [小米运动](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
