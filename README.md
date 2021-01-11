@@ -144,6 +144,7 @@
   - [葱花视频自动阅读](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - ~~返利网红包~~
   - [抖音极速版](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js)
+  - [笑谱](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js)
 
 ## 补充说明
 
