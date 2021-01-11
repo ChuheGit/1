@@ -129,7 +129,7 @@
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
   - [京喜工厂plus](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js)
   - ~~京喜金牌厂长~~
-  - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
+  - [惊喜农场](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_jxnc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js)
 
 - #### 薅
