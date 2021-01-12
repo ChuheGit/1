@@ -123,6 +123,7 @@
   - ~~CrazyJoy挂机~~
   - [口袋书店](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bookshop.js)
   - [签到领现金](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_cash.js)
+  - [京东年货节](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_nh.js)
   - [小米运动](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
