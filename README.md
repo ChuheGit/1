@@ -135,6 +135,7 @@
   - [惊喜农场](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jxnc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js)
   - [京喜财富岛兑换提醒](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js)
+  - [宝洁美发屋](https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js)
 
 - #### 薅
 
