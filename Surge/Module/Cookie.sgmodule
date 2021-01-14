@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM]
-hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,pay.diditaxi.com.cn, daojia.jd.com, nebula.kuaishou.com, *.rr.tv, tieba.baidu.com, *.video.qq.com,v.qq.com, mobwsa.ximalaya.com, *.rrys2020.com,ios.zmzapi.com, ifac*.iqiyi.com, api.m.jd.com, account.huami.com, wq.jd.com, *.youth.cn,ios.baertt.com, app.kxp.com, veishop.iboxpay.com
+hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,pay.diditaxi.com.cn, daojia.jd.com, nebula.kuaishou.com, *.rr.tv, tieba.baidu.com, *.video.qq.com,v.qq.com, mobwsa.ximalaya.com, *.rrys2020.com,ios.zmzapi.com, ifac*.iqiyi.com, api.m.jd.com, account.huami.com, wq.jd.com, *.youth.cn,ios.baertt.com, app.kxp.com, *.tenpay.com, veishop.iboxpay.com
 
 [Script]
 滴滴出行_获取Token = type=http-request,pattern=^https?:\/\/api\.didialift\.com\/beatles\/userapi\/user\/user\/getuserinfo?.*city_id=(\d+).*token=([^&]*),script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
@@ -45,9 +45,13 @@ hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,
 中青浏览赚 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/task\/browse_(start|end)\.json,requires-body=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js
 
 葱花视频任务中心请求body = type=http-request,pattern=https:\/\/app\.kxp\.com\/task\/v1\/task_center\/data,requires-body=1,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/conghuabody.js
-葱花视频请求body = type=http-request,pattern=https://app.kxp.com/video/v1/video/complete,requires-body=1,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/conghuabody.js
 葱花视频时段奖励请求body = type=http-request,pattern=https:\/\/app\.kxp\.com\/task\/v1\/task_center\/red,requires-body=1,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/conghuabody.js
 葱花视频分享请求body = type=http-request,pattern=https:\/\/app\.kxp\.com\/video\/v1\/video\/share,requires-body=1,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/conghuabody.js
 葱花视频分享奖励请求body = type=http-request,pattern=https:\/\/app\.kxp\.com\/task\/v1\/task_center\/share_video_reward,requires-body=1,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/conghuabody.js
+
+腾讯自选股 = type=http-request,pattern=https://(zqact|wzq).tenpay.com/cgi-bin/activity_sign_task.fcgi?,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txs_cookie.js
+腾讯自选股 = type=http-request,pattern=https://wzq.tenpay.com/activity/page/welwareCenter/,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txs_cookie.js
+腾讯自选股 = type=http-request,pattern=https://wzq.tenpay.com/resources/vtools,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txs_cookie.js
+腾讯自选股 = type=http-request,pattern=https://wzq.tenpay.com/cgi-bin/activity_usercenter.fcgi?,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txs_cookie.js
 
 笑谱 = type=http-request,pattern=^https:\/\/veishop\.iboxpay\.com\/nf_gateway\/nf_customer_activity\/day_cash\/v1\/give_gold_coin_by_video\.json,requires-body=1,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js

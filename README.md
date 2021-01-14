@@ -48,7 +48,7 @@
 
   - ⚠️请确保你添加了[资源解析器](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js)并开启
 
-    > 添加资源解析器：在Quantumult X 配置文件中[general] 部分，加入 `resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js`
+    > 添加资源解析器：在Quantumult X 配置文件中 [general] 部分，加入 `resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js`
     >
     >  ⚠️如提示"没有自定义解析器"，请长按首页右下角图标后点击左侧刷新按钮，更新资源，后台退出 APP，直到出现解析器说明
 
@@ -146,6 +146,7 @@
   - ~~惠头条~~
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
   - [葱花视频自动阅读](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
+  - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
   - ~~返利网红包~~
   - ~~抖音极速版~~
   - [笑谱](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js)
