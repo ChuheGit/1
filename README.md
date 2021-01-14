@@ -124,6 +124,7 @@
   - [口袋书店](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bookshop.js)
   - [签到领现金](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_cash.js)
   - [京东年货节](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_nh.js)
+  - [京东家庭号](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_family.js)
   - [小米运动](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/backUp/xmSports.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
@@ -145,7 +146,7 @@
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
   - [葱花视频自动阅读](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - ~~返利网红包~~
-  - [抖音极速版](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js)
+  - ~~抖音极速版~~
   - [笑谱](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js)
 
 ## 补充说明
