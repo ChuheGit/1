@@ -176,6 +176,8 @@
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` 
   
   `https://raw.githubusercontent.com/CenBoMin/GithubSync/main/cenbomin.box.json`
+  
+  `https://raw.githubusercontent.com/shylocks/Loon/main/shylocks.boxjs.json`
 
 ## 鸣谢
 
@@ -200,6 +202,7 @@
   - [MoPoQAQ](https://github.com/MoPoQAQ/Script/tree/main)
   - [elecV2](https://github.com/elecV2/QuantumultX-Tools)
   - [CenBoMin](https://github.com/CenBoMin/QuantumultX/tree/master)
+  - [shylocks](https://github.com/shylocks/Loon)
 
 - #### 图标
 
