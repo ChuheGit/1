@@ -141,6 +141,9 @@
   - [京喜财富岛](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js)
   - [京喜财富岛兑换提醒](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js)
   - [宝洁美发屋](https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js)
+  - [盲盒抽京豆](https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js)
+  - [京东秒秒币](https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js)
+  - [京东粉丝专享](https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js)
 
 - #### 薅
 
