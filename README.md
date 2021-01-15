@@ -69,6 +69,7 @@
   - [京东到家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js)
   - [京喜](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js)
   - [快手极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js)
+  - [新浪微博](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js)
   - [人人视频](https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js)
   - [百度贴吧](https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js)
   - [腾讯视频](https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js)

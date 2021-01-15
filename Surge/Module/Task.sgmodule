@@ -12,6 +12,8 @@
 
 快手极速版 = type=cron,cronexp="10 9 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js
 
+新浪微博 = type=cron,cronexp="10 9 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js
+
 人人视频 = type=cron,cronexp="20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js
 
 百度贴吧 = type=cron,cronexp="20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/ChuheGit/1/main/Script/tieba.js
