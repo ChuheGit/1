@@ -131,7 +131,11 @@
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
   - [白条领券](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js)
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
+  - [京小超升级商品](https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-product.js)
+  - [京小超升级货架](https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-shelf.js)
+  - [京小超领蓝币](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js)
   - [京喜工厂plus](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js)
+  - [京喜工厂商品列表详情](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js)
   - ~~京喜金牌厂长~~
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js)
