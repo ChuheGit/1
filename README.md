@@ -131,9 +131,6 @@
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
   - [白条领券](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js)
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
-  - [京小超升级商品](https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-product.js)
-  - [京小超升级货架](https://raw.githubusercontent.com/whyour/hundun/master/quanx/upgrade-shelf.js)
-  - [京小超领蓝币](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js)
   - [京喜工厂plus](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js)
   - [京喜工厂商品列表详情](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js)
   - ~~京喜金牌厂长~~
@@ -144,7 +141,7 @@
   - [盲盒抽京豆](https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js)
   - [京东秒秒币](https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js)
   - [京东粉丝专享](https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js)
-
+  
 - #### 薅
 
   - [百度极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js)
