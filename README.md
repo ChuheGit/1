@@ -126,6 +126,7 @@
   - [签到领现金](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js)
   - [京东年货节](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js)
   - [京东家庭号](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_family.js)
+  - [获取互助码](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js)
   - [小米运动](https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
