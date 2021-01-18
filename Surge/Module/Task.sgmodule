@@ -123,6 +123,10 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 宝洁美发屋 = type=cron,cronexp="1 8,9 14-31/1 1 *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js
 
+工业品爱消除 = type=cron,cronexp="30 * * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js
+
+直播间红包雨 = type=cron,cronexp="0,1 19-21/1 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain2.js
+
 盲盒抽京豆 = type=cron,cronexp="1 7 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js
 
 京东秒秒币 = type=cron,cronexp="1 7 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js
