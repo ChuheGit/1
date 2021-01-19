@@ -146,6 +146,8 @@
   - [盲盒抽京豆](https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js)
   - [京东秒秒币](https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js)
   - [京东粉丝专享](https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js)
+  - [小鸽有礼](https://raw.githubusercontent.com/shylocks/Loon/main/jd_xg.js)
+  - [东东爱消除](https://raw.githubusercontent.com/shylocks/Loon/main/jd_xxl.js)
   
 - #### 薅
 
