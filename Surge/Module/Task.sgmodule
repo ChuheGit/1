@@ -135,6 +135,8 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 年货直播红包雨 = type=cron,cronexp="0 0,9,11,13,15,17,19,20,21,23 3,5,20-30/1 1,2 *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_nian.js
 
+官方号直播红包雨 = type=cron,cronexp="0 0,9,11,13,15,17,19,20,21,23 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_offical.js
+
 盲盒抽京豆 = type=cron,cronexp="1 7 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js
 
 京东秒秒币 = type=cron,cronexp="1 7 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js

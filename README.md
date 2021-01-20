@@ -145,6 +145,7 @@
   - [超级直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain.js)
   - [直播间红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain2.js)
   - [年货直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_nian.js)
+  - [官方号直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_offical.js)
   - [盲盒抽京豆](https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js)
   - [京东秒秒币](https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js)
   - [京年团圆pick](https://raw.githubusercontent.com/shylocks/Loon/main/jd_vote.js) 
