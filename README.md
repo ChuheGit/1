@@ -142,12 +142,16 @@
   - [京喜财富岛兑换提醒](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js)
   - [宝洁美发屋](https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js)
   - [工业品爱消除](https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js)
+  - [超级直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain.js)
   - [直播间红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain2.js)
+  - [年货直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_nian.js)
   - [盲盒抽京豆](https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js)
   - [京东秒秒币](https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js)
+  - [京年团圆pick](https://raw.githubusercontent.com/shylocks/Loon/main/jd_vote.js) 
   - [京东粉丝专享](https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js)
   - [小鸽有礼](https://raw.githubusercontent.com/shylocks/Loon/main/jd_xg.js)
   - [东东爱消除](https://raw.githubusercontent.com/shylocks/Loon/main/jd_xxl.js)
+  - [个护爱消除](https://raw.githubusercontent.com/shylocks/Loon/main/jd_xxl_gh.js)
   
 - #### 薅
 
