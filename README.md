@@ -144,6 +144,7 @@
   - [工业品爱消除](https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js)
   - [超级直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain.js)
   - [直播间红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain2.js)
+  - [半点红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_half.js)
   - [年货直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_nian.js)
   - [官方号直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_offical.js)
   - [盲盒抽京豆](https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js)
