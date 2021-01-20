@@ -163,6 +163,7 @@
   - ~~返利网红包~~
   - ~~抖音极速版~~
   - [笑谱](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js)
+  - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
 
 ## 补充说明
 
