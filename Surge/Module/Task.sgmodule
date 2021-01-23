@@ -170,6 +170,4 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 腾讯自选股 = type=cron,cronexp="0 8 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js
 
-笑谱 = type=cron,cronexp="*/20 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js
-
 步步宝 = type=cron,cronexp="0 8-23/2 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js

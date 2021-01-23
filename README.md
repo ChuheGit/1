@@ -169,7 +169,7 @@
   - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
   - ~~返利网红包~~
   - ~~抖音极速版~~
-  - [笑谱](https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js)
+  - ~~笑谱~~
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
 
 ## 补充说明
