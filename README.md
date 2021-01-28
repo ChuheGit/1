@@ -95,7 +95,6 @@
   - [进店领豆](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_shop.js)
   - [摇京豆](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_club_lottery.js)
   - [京东全民开红包](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_redPacket.js)
-  - ~~京东健康~~
   - [京豆变动通知](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_change.js)
   - [京喜工厂](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_dreamFactory.js)
   - [东东小窝](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_small_home.js)
