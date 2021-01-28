@@ -65,7 +65,6 @@
 - #### 签到
 
   - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
-  - ~~电视家~~
   - [京东到家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js)
   - [京喜](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js)
   - [快手极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js)
