@@ -174,4 +174,4 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 步步宝 = type=cron,cronexp="0 8-23/2 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js
 
-返利网 = type=cron,cronexp="0 * * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js
+返利网 = type=cron,cronexp="0 7,8 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js
