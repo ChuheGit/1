@@ -133,6 +133,16 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 京东超级盒子 = type=cron,cronexp="20 7 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/blob/master/jd_super_box.js
 
+超级直播间红包雨 = type=cron,cronexp="30,31 20-23/1 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/Tartarus2014/Script/master/jd_live_redrain.js
+
+直播间红包雨 = type=cron,cronexp="0,1 19-21/1 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/Tartarus2014/Script/master/jd_live_redrain2.js
+
+半点红包雨 = type=cron,cronexp="30,31 12-23/1 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/Tartarus2014/Script/master/jd_live_redrain_half.js
+
+年货直播红包雨 = type=cron,cronexp="0 0,9,11,13,15,17,19,20,21,23 3,5,20-30/1 1,2 *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/Tartarus2014/Script/master/jd_live_redrain_nian.js
+
+官方号直播红包雨 = type=cron,cronexp="0 0,9,11,13,15,17,19,20,21,22,23 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/Tartarus2014/Script/master/jd_live_redrain_offical.js
+
 抽奖机 = type=cron,cronexp="11 1 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js
 
 排行榜 = type=cron,cronexp="11 9 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js
@@ -159,8 +169,6 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 中青看点浏览赚 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js
 
 葱花视频 = type=cron,cronexp="*/30 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js
-
-葱花视频自动阅读 = type=cron,cronexp="*/30 6-15 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js
 
 腾讯自选股 = type=cron,cronexp="0 8 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js
 
