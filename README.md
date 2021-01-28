@@ -146,7 +146,6 @@
   - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
-  - [葱花视频自动阅读](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
   - [返利网](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js)
