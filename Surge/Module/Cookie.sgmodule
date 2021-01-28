@@ -40,8 +40,6 @@ hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,
 
 京喜农场 = type=http-request,pattern=^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.cookie.js
 
-获取京东微信ck = type=http-request,pattern=https:\/\/wq\.jd\.com\/bases\/jssdk\/GetWxJsApiSign,script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js
-
 中青看点 = type=http-request,pattern=https:\/\/\w+\.youth\.cn\/TaskCenter\/(sign|getSign),script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
 中青看点 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/article\/complete,requires-body=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
 中青看点 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/article\/red_packet,requires-body=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
