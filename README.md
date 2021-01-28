@@ -155,7 +155,7 @@
 
 - 脚本部分功能需要搭配作者的 BoxJs 订阅使用
 
-  > 教程：https://chavyleung.gitbook.io/boxjs/
+  > BoxJs 使用教程：https://chavyleung.gitbook.io/boxjs/
 
   `https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json`
 
