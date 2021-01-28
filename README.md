@@ -80,81 +80,66 @@
   
 - #### 京东活动
 
-  - [东东农场](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_fruit.js)
-  - [东东萌宠](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_pet.js)
-  - [种豆得豆](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_plantBean.js)
-  - [天天加速](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_speed.js)
-  - [摇钱树](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_moneyTree.js)
-  - [宠汪汪](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy.js)
-  - [宠汪汪偷好友积分与狗粮](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_steal.js)
-  - [宠汪汪喂食](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_feedPets.js)
-  - [宠汪汪积分兑换奖品](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_reward.js)
-  - [宠汪汪邀请助力与赛跑助力](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_joy_run.js)
-  - [取关店铺商品](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_unsubscribe.js)
-  - [东东超市](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_superMarket.js)
-  - [京小超兑换奖品](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_blueCoin.js)
-  - [进店领豆](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_shop.js)
-  - [摇京豆](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_club_lottery.js)
-  - [京东全民开红包](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_redPacket.js)
+  - [东东农场](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_fruit.js)
+  - [东东萌宠](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pet.js)
+  - [种豆得豆](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_plantBean.js)
+  - [天天加速](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed.js)
+  - [摇钱树](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_moneyTree.js)
+  - [宠汪汪](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy.js)
+  - [宠汪汪偷好友积分与狗粮](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_steal.js)
+  - [宠汪汪喂食](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_feedPets.js)
+  - [宠汪汪积分兑换奖品](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_reward.js)
+  - [宠汪汪邀请助力与赛跑助力](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_run.js)
+  - [取关店铺商品](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unsubscribe.js)
+  - [东东超市](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js)
+  - [京小超兑换奖品](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js)
+  - [进店领豆](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_shop.js)
+  - [摇京豆](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_club_lottery.js)
+  - [京东全民开红包](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_redPacket.js)
   - ~~京东健康~~
-  - [京豆变动通知](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bean_change.js)
-  - [京喜工厂](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_dreamFactory.js)
-  - [东东小窝](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_small_home.js)
-  - [东东工厂](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_jdfactory.js)
-  - [点点券](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_necklace.js)
-  - [十元街](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_syj.js)
-  - ~~金榜年终奖~~
-  - ~~秒杀红包雨~~
-  - [领京豆额外奖励](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bean_home.js)
-  - [京东汽车](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_car.js)
-  - [京东汽车兑换](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_car_exchange.js)
-  - ~~健康抽奖机~~
-  - [京东快递签到](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_kd.js)
-  - ~~数码加购京豆~~
-  - ~~直播红包雨~~
-  - ~~苹果抽奖机~~
-  - ~~PUBG~~
-  - [京东直播](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_live.js)
-  - ~~京东看一看~~
-  - [京东金融-天天提鹅](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_daily_egg.js)
-  - [京东金融-养猪猪](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_pigPet.js)
-  - ~~金融打卡领年终奖~~
-  - [注销京东会员卡](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_unbind.js)
-  - [CrazyJoy任务](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_crazy_joy.js)
-  - ~~CrazyJoy挂机~~
-  - [口袋书店](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bookshop.js)
-  - [签到领现金](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_cash.js)
-  - [京东年货节](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nh.js)
-  - [京东家庭号](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_family.js)
-  - [京东炸年兽](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js)
-  - [炸年兽收爆竹](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nianCollect.js)
-  - [京东神仙书院](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_immortal.js)
-  - [获取互助码](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_get_share_code.js)
-  - [小米运动](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/backUp/xmSports.js)
+  - [京豆变动通知](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_change.js)
+  - [京喜工厂](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_dreamFactory.js)
+  - [东东小窝](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_small_home.js)
+  - [东东工厂](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jdfactory.js)
+  - [点点券](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_necklace.js)
+  - [十元街](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_syj.js)
+  - [领京豆额外奖励](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_home.js)
+  - [京东汽车](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car.js)
+  - [京东汽车兑换](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js)
+  - [京东快递签到](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_kd.js)
+  - [京东直播](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_live.js)
+  - [京东金融-天天提鹅](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js)
+  - [京东金融-养猪猪](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pigPet.js)
+  - [注销京东会员卡](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unbind.js)
+  - [CrazyJoy任务](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js)
+  - [口袋书店](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bookshop.js)
+  - [签到领现金](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js)
+  - [京东年货节](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js)
+  - [京东家庭号](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_family.js)
+  - [京东炸年兽](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian.js)
+  - [炸年兽收爆竹](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nianCollect.js)
+  - [炸年兽AR](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_ar.js)
+  - [炸年兽签到任务](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_sign.js)
+  - [炸年兽小程序](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_wechat.js)
+  - [京东神仙书院](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal.js)
+  - [神仙书院答题](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js)
+  - [闪购盲盒](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js)
+  - [获取互助码](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js)
+  - [小米运动](https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js)
+  - [源头好物红包](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_coupon.js)
+  - [小鸽有礼](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xg.js)
+  - [京东秒秒币](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_ms.js)
+  - [盲盒抽京豆](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_mh.js)
+  - [京东手机年终奖](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_festival.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
   - [白条领券](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_baiTiao.js)
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
   - [京喜工厂plus](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js)
   - [京喜工厂商品列表详情](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js)
-  - ~~京喜金牌厂长~~
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js)
   - [京喜财富岛兑换提醒](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd_exchange.js)
-  - [宝洁美发屋](https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js)
-  - ~~工业品爱消除~~
-  - [超级直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain.js)
-  - [直播间红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain2.js)
-  - [半点红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_half.js)
-  - [年货直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_nian.js)
-  - [官方号直播红包雨](https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain_offical.js)
-  - [盲盒抽京豆](https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js)
-  - [京东秒秒币](https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js)
-  - ~~京年团圆pick~~
-  - [京东粉丝专享](https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js)
-  - [小鸽有礼](https://raw.githubusercontent.com/shylocks/Loon/main/jd_xg.js)
-  - ~~东东爱消除~~
-  - ~~个护爱消除~~
   
 - #### 薅
 
@@ -162,14 +147,9 @@
   - [中青看点](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
-  - ~~企鹅读书~~
-  - ~~惠头条~~
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
   - [葱花视频自动阅读](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/AutoRead.js)
   - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
-  - ~~返利网红包~~
-  - ~~抖音极速版~~
-  - ~~笑谱~~
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
 
 ## 补充说明
@@ -184,15 +164,13 @@
 
   `https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json`
 
-  `https://raw.githubusercontent.com/LXK9301/jd_scripts/master/lxk0301.boxjs.json`
+  `https://gitee.com/lxk0301/jd_scripts/raw/master/lxk0301.boxjs.json`
 
   `https://raw.githubusercontent.com/whyour/hundun/master/quanx/whyour.boxjs.json`
 
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` 
   
   `https://raw.githubusercontent.com/CenBoMin/GithubSync/main/cenbomin.box.json`
-  
-  `https://raw.githubusercontent.com/shylocks/Loon/main/shylocks.boxjs.json`
 
 ## 鸣谢
 
