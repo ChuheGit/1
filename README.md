@@ -178,7 +178,7 @@
 
   > **特别感谢 [Shawn](https://github.com/KOP-XIAO/QuantumultX-Surge-API) 的 API 支持**
 
-  > 如有遗漏或差错，绝非本意，敬请谅解，烦请[联系](https://t.me/Chuhe)修改
+  > 如有遗漏或差错，绝非本意，敬请谅解，烦请[联系](https://t.me/Chuhe)更正
 
   
 
