@@ -36,7 +36,7 @@
 
   - 京东合集（仅包含京东任务）
 
-    `https://dove.589669.xyz/task2qxgallery?img=1&filter=jd_%7Cjx_%7CJD&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
+    `https://dove.589669.xyz/task2qxgallery?img=1&filter=jd_%7Cjx_%7CJD%7Cngx&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
     > 此 API 可将 Surge 的远程模块转换为 Quantumult X 的 gallery 链接格式，img 参数可自动匹配 Task 图标，欢迎共同完善图标库（可连同脚本一起提交），要求图片为 108x108 尺寸的 PNG 格式，图片名称需同脚本名称一致，如 JD.js 对应 JD.png
     >
