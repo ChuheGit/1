@@ -14,7 +14,7 @@
 
   - 京东合集（仅包含京东任务）
 
-    `https://dove.589669.xyz/subfilter?filter=jd_%7Cjx_%7CJD&inline=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
+    `https://dove.589669.xyz/subfilter?filter=jd_%7Cjx_%7CJD%7Cngx&inline=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
 - #### 需要搭配下面两个 Module 使用
 
