@@ -99,8 +99,6 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 京东年货节 = type=cron,cronexp="1 7 * * *",wake-system=1,timeout=20,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js
 
-京东家庭号 = type=cron,cronexp="1 * * * *",wake-system=1,timeout=2220,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_family.js
-
 京东炸年兽 = type=cron,cronexp="0 8,9,10 * * *",wake-system=1,timeout=22200,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian.js
 
 炸年兽收爆竹 = type=cron,cronexp="20 * * * *",wake-system=1,timeout=200,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nianCollect.js
