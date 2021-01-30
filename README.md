@@ -66,7 +66,6 @@
 
   - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
   - [京东到家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js)
-  - [京喜](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js)
   - [快手极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js)
   - [新浪微博](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js)
   - [人人视频](https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js)
@@ -76,6 +75,7 @@
   - [字幕组](https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js)
   - [爱奇艺](https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js)
   - [京东](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js)
+  - [京喜](https://gitee.com/lxk0301/jd_scripts/raw/master/jx_sign.js)
   
 - #### 京东活动
 
@@ -113,7 +113,6 @@
   - [口袋书店](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bookshop.js)
   - [签到领现金](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js)
   - [京东年货节](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js)
-  - [京东家庭号](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_family.js)
   - [京东炸年兽](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian.js)
   - [炸年兽收爆竹](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nianCollect.js)
   - [炸年兽AR](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_ar.js)
@@ -122,6 +121,7 @@
   - [京东神仙书院](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal.js)
   - [神仙书院答题](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js)
   - [闪购盲盒](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js)
+  - [5G狂欢城](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js)
   - [获取互助码](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js)
   - [小米运动](https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js)
   - [源头好物红包](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_coupon.js)

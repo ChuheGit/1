@@ -8,8 +8,6 @@
 
 京东到家 = type=cron,cronexp="10 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js
 
-京喜 = type=cron,cronexp="10 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js
-
 快手极速版 = type=cron,cronexp="10 9 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js
 
 新浪微博 = type=cron,cronexp="10 9 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js
@@ -27,6 +25,8 @@
 爱奇艺 = type=cron,cronexp="20 9 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
 
 京东 = type=cron,cronexp="5 0 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+
+京喜 = type=cron,cronexp="5 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jx_sign.js
 
 # 京东活动
 东东农场 = type=cron,cronexp="5 6-18/6 * * *",wake-system=1,timeout=120,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_fruit.js
@@ -116,6 +116,8 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 神仙书院答题 = type=cron,cronexp="20 8 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js
 
 闪购盲盒 = type=cron,cronexp="20 8 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js
+
+5G狂欢城 = type=cron,cronexp="0 0,6,12,18 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js
 
 获取互助码 = type=cron,cronexp="20 13 * * 6",wake-system=1,timeout=120,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js
 
