@@ -131,7 +131,6 @@
   - [盲盒抽京豆](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_mh.js)
   - [京东手机年终奖](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_festival.js)
   - [京东超级盒子](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_super_box.js)
-  - [超级直播间红包雨](http://qnn9kdmd1.hn-bkt.clouddn.com/jd_live_redrain.js)
   - [京东压岁钱](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js)
   - [京东压岁钱抢百元卡](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
