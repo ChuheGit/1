@@ -152,6 +152,7 @@
   - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
   - [返利网](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js)
+  - [笑谱](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js)
 
 ## 补充说明
 
