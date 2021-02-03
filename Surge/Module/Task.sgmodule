@@ -170,4 +170,4 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 返利网 = type=cron,cronexp="0 7,8 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js
 
-笑谱 = type=cron,cronexp="*/25 19-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js
+笑谱 = type=cron,cronexp="*/25 19-23 * * *",wake-system=1,timeout=250,script-path=https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js
