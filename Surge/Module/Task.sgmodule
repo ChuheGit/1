@@ -123,8 +123,6 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 小米运动 = type=cron,cronexp="15 19 * * *",wake-system=1,timeout=20,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js
 
-源头好物红包 = type=cron,cronexp="0 0 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_coupon.js
-
 小鸽有礼 = type=cron,cronexp="5 7 * * *",wake-system=1,timeout=200,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xg.js
 
 京东秒秒币 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=200,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_ms.js
