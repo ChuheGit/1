@@ -117,7 +117,6 @@
   - [京东神仙书院](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal.js)
   - [神仙书院答题](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js)
   - [闪购盲盒](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js)
-  - [5G狂欢城](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js)
   - [小鸽有礼2](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js)
   - [获取互助码](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js)
   - [小米运动](https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js)
