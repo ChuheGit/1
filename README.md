@@ -152,6 +152,7 @@
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
   - [返利网](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js)
   - [笑谱](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js)
+  - [多看点](https://raw.githubusercontent.com/age174/-/main/dkd.js)
 
 ## 补充说明
 
