@@ -101,14 +101,6 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 京东炸年兽 = type=cron,cronexp="0 8,9,10 * * *",wake-system=1,timeout=22200,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian.js
 
-炸年兽收爆竹 = type=cron,cronexp="20 * * * *",wake-system=1,timeout=200,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nianCollect.js
-
-炸年兽AR = type=cron,cronexp="0 9 * * *",wake-system=1,timeout=36000,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_ar.js
-
-炸年兽签到任务 = type=cron,cronexp="30 8 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_sign.js
-
-炸年兽小程序 = type=cron,cronexp="50 8 * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_wechat.js
-
 京东神仙书院 = type=cron,cronexp="20 8,12,22 * * *",wake-system=1,timeout=2000,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal.js
 
 神仙书院答题 = type=cron,cronexp="20 * * * *",wake-system=1,timeout=3600,script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js
