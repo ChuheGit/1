@@ -113,8 +113,6 @@
   - [口袋书店](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bookshop.js)
   - [签到领现金](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js)
   - [京东年货节](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js)
-  - [京东神仙书院](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal.js)
-  - [神仙书院答题](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_immortal_answer.js)
   - [闪购盲盒](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js)
   - [小鸽有礼2](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js)
   - [获取互助码](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js)
