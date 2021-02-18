@@ -108,22 +108,15 @@
   - [京东直播](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_live.js)
   - [京东金融-天天提鹅](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js)
   - [京东金融-养猪猪](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pigPet.js)
-  - [注销京东会员卡](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unbind.js)
   - [CrazyJoy任务](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js)
   - [口袋书店](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bookshop.js)
   - [签到领现金](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js)
-  - [京东年货节](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nh.js)
   - [闪购盲盒](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js)
   - [小鸽有礼2](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js)
   - [获取互助码](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js)
   - [小米运动](https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js)
   - [小鸽有礼](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xg.js)
   - [京东秒秒币](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_ms.js)
-  - [盲盒抽京豆](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_mh.js)
-  - [京东手机年终奖](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_festival.js)
-  - [京东超级盒子](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_super_box.js)
-  - [京东压岁钱](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js)
-  - [京东压岁钱抢百元卡](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
   - [排行榜](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js)
   - [京东赚赚](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js)
@@ -142,8 +135,8 @@
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
   - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
-  - [返利网](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js)
-  - [笑谱](https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js)
+  - [返利网](https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js)
+  - [笑谱](https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js)
   - [多看点](https://raw.githubusercontent.com/age174/-/main/dkd.js)
 
 ## 补充说明
@@ -166,7 +159,7 @@
   
   `https://raw.githubusercontent.com/CenBoMin/GithubSync/main/cenbomin.box.json`
   
-  `https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/ziye.boxjs.json`
+  `https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ziye.boxjs.json`
 
 ## 鸣谢
 
