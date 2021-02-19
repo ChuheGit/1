@@ -1,5 +1,5 @@
 /* 
-修改自chavy大佬 https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Extra/tieba.js （就改了两个emoji）
+修改自chavy大佬 https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js （就改了两个emoji）
 
 配置 (Surge)
 [MITM]
