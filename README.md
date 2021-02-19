@@ -105,7 +105,6 @@
   - [京东汽车](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car.js)
   - [京东汽车兑换](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js)
   - [京东快递签到](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_kd.js)
-  - [京东直播](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_live.js)
   - [京东金融-天天提鹅](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js)
   - [京东金融-养猪猪](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pigPet.js)
   - [CrazyJoy任务](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_crazy_joy.js)
