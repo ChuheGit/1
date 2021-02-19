@@ -113,6 +113,7 @@
   - [签到领现金](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js)
   - [闪购盲盒](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_sgmh.js)
   - [小鸽有礼2](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js)
+  - [女装盲盒](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nzmh.js)
   - [获取互助码](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js)
   - [小米运动](https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js)
   - [小鸽有礼](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xg.js)
