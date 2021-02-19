@@ -1,4 +1,38 @@
-// 修改自chavy大佬 https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Extra/tieba.js （就改了两个emoji）
+/* 
+修改自chavy大佬 https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Extra/tieba.js （就改了两个emoji）
+
+配置 (Surge)
+[MITM]
+tieba.baidu.com
+
+[Script]
+http-request ^https?:\/\/tieba\.baidu\.com\/?.? script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.cookie.js
+cron "10 0 0 * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js
+
+配置 (QuanX)
+[MITM]
+tieba.baidu.com
+
+[rewrite_local]
+# 189及以前版本
+^https?:\/\/tieba\.baidu\.com\/?.? url script-response-body tieba.cookie.js
+# 190及以后版本
+^https?:\/\/tieba\.baidu\.com\/?.? url script-request-header tieba.cookie.js
+
+[task_local]
+1 0 * * * tieba.js
+说明
+1.先在浏览器登录 (先登录! 先登录! 先登录!)
+2.先把tieba.baidu.com加到[MITM]
+3.再配置重写规则:
+  Surge: 把两条远程脚本放到[Script]
+  QuanX: 把tieba.cookie.js和tieba.js传到On My iPhone - Quantumult X - Scripts (传到 iCloud 相同目录也可, 注意要打开 quanx 的 iCloud 开关)
+4.再用浏览器访问一下: https://tieba.baidu.com 或者 https://tieba.baidu.com/index/
+5.系统提示: 获取Cookie: 成功
+6.最后就可以把第 1 条脚本注释掉了
+//第 1 条脚本是用来获取 cookie 的, 用浏览器访问一次获取 cookie 成功后就可以删掉或注释掉了, 但请确保在登录成功后再获取 cookie.
+//第 2 条脚本是签到脚本, 每天00:00:10执行一次.
+*/
 
 const $ = new Env('百度签到')
 $.VAL_cookies = $.getdata('chavy_cookie_tieba') || $.getdata('CookieTB')
