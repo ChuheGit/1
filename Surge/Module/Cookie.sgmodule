@@ -33,7 +33,7 @@ hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,
 
 获取京东Cookie = type=http-request,pattern=^https:\/\/wq\.jd\.com\/user_new\/info\/GetJDUserInfoUnion,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/JD_extra_cookie.js
 
-小米运动 = type=http-response,pattern=^https:\/\/account\.huami\.com\/v2\/client\/login,requires-body=1,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/backUp/xmSports.js
+小米运动 = type=http-response,pattern=^https:\/\/account\.huami\.com\/v2\/client\/login,requires-body=1,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js
 
 京喜token = type=http-request,pattern=^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
 京喜token = type=http-request,pattern=^https\:\/\/m\.jingxi\.com\/dreamfactory\/generator\/CollectCurrentElectricity,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js

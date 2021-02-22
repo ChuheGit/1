@@ -114,7 +114,7 @@
   - [小鸽有礼2](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xgyl.js)
   - [女装盲盒](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js)
   - [获取互助码](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js)
-  - [小米运动](https://jdsharedresourcescdn.azureedge.net/jdresource/backUp/xmSports.js)
+  - [小米运动](https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js)
   - [小鸽有礼](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xg.js)
   - [京东秒秒币](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js)
   - [抽奖机](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js)
