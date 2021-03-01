@@ -113,6 +113,7 @@
   - [闪购盲盒](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_sgmh.js)
   - [小鸽有礼2](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xgyl.js)
   - [女装盲盒](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js)
+  - [她的节享京豆](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js)
   - [获取互助码](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js)
   - [小米运动](https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js)
   - [京东秒秒币](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js)

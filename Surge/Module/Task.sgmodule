@@ -97,6 +97,8 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 女装盲盒 = type=cron,cronexp="0 7 19-25 2 *",wake-system=1,timeout=3600,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js
 
+她的节享京豆 = type=cron,cronexp="0 8,21 1-8/1 3 *",wake-system=1,timeout=3600,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js
+
 获取互助码 = type=cron,cronexp="20 13 * * 6",wake-system=1,timeout=120,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js
 
 小米运动 = type=cron,cronexp="15 19 * * *",wake-system=1,timeout=20,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js
@@ -132,8 +134,8 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 步步宝 = type=cron,cronexp="0 8-23/2 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js
 
-返利网 = type=cron,cronexp="0 10,23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js
+返利网 = type=cron,cronexp="0 10,23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/flw.js
 
-笑谱 = type=cron,cronexp="0 */30 8-23 * * *",wake-system=1,timeout=250,script-path=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js
+笑谱 = type=cron,cronexp="0 */30 8-23 * * *",wake-system=1,timeout=250,script-path=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js
 
 多看点 = type=cron,cronexp="*/20 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/age174/-/main/dkd.js
