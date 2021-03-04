@@ -122,11 +122,11 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 # 薅
 百度极速版 = type=cron,cronexp="0 6-23 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js
 
-中青看点极速版 = type=cron,cronexp="*/10 6-23 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
+中青看点极速版 = type=cron,cronexp="*/10 6-23 * * *",wake-system=1,timeout=360,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js
 
-中青看点自动阅读 = type=cron,cronexp="0 6-23 * * *",wake-system=1,timeout=7200,script-path=https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js
+中青看点浏览赚 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=1800,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js
 
-中青看点浏览赚 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js
+中青看点阅读 = type=cron,cronexp=35 */30 */2 * * *,wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js
 
 葱花视频 = type=cron,cronexp="*/30 6-23 * * *",wake-system=1,timeout=30,script-path=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js
 
