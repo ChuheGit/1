@@ -38,12 +38,6 @@
 
     `https://dove.589669.xyz/task2qxgallery?img=1&filter=jd_%7Cjx_%7CJD&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
-    > 此 API 可将 Surge 的远程模块转换为 Quantumult X 的 gallery 链接格式，img 参数可自动匹配 Task 图标，欢迎共同完善图标库（可连同脚本一起提交），要求图片为 108x108 尺寸的 PNG 格式，图片名称需同脚本名称一致，如 JD.js 对应 JD.png
-    >
-    > 提交请联系 TG: [@ChuheBot](https://t.me/ChuheBot)
-
-  
-
 - #### 需要搭配下面两个重写订阅使用
 
   - ⚠️请确保你添加了[资源解析器](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js)并开启
@@ -167,7 +161,7 @@
 
   > **特别感谢 [Shawn](https://github.com/KOP-XIAO/QuantumultX-Surge-API) 的 API 支持**
 
-  > 如有遗漏或差错，绝非本意，敬请谅解，烦请[联系](https://t.me/Chuhe)更正
+  > 如有遗漏或差错，绝非本意，敬请谅解，烦请[联系](https://t.me/ChuheBot)更正
 
   
 
@@ -204,4 +198,4 @@
 
 ## 声明
 
-- 所有引用的资源均来源于 GitHub，仅为资源共享、学习参考之用，不保证其合法性、正当性、准确性，本人不对任何内容和使用后果承担任何责任，如有侵权，烦请[联系](https://t.me/Chuhe)删除。
+- 所有引用的资源均来源于 GitHub，仅为资源共享、学习参考之用，不保证其合法性、正当性、准确性，本人不对任何内容和使用后果承担任何责任，如有侵权，烦请[联系](https://t.me/ChuheBot)删除。
