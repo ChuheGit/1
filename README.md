@@ -129,8 +129,8 @@
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
   - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
-  - [返利网](https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js)
-  - [笑谱](https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js)
+  - [返利网](https://raw.githubusercontent.com/ChuheGit/1/ZIYE/Task/flw.js)
+  - [笑谱](https://raw.githubusercontent.com/ChuheGit/1/ZIYE/Task/iboxpay.js)
 
 ## 补充说明
 
@@ -152,7 +152,7 @@
   
   `https://raw.githubusercontent.com/CenBoMin/GithubSync/main/cenbomin.box.json`
   
-  `https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/ziye.boxjs.json`
+  `https://raw.githubusercontent.com/ChuheGit/1/ZIYE/Task/ziye.boxjs.json`
 
 ## 鸣谢
 
