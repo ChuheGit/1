@@ -131,7 +131,6 @@
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
   - [返利网](https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js)
   - [笑谱](https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js)
-  - [多看点](https://raw.githubusercontent.com/age174/-/main/dkd.js)
 
 ## 补充说明
 
@@ -178,8 +177,7 @@
   - [MoPoQAQ](https://github.com/MoPoQAQ/Script/tree/main)
   - [elecV2](https://github.com/elecV2/QuantumultX-Tools)
   - [CenBoMin](https://github.com/CenBoMin/QuantumultX/tree/master)
-  - [shylocks](https://github.com/shylocks/Loon)
-
+  
 - #### 图标
 
   - [58xinian](https://github.com/58xinian/icon/tree/master)
