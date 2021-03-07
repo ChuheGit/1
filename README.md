@@ -123,9 +123,9 @@
 - #### 薅
 
   - [百度极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js)
-  - [中青看点](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
-  - [中青看点自动阅读](https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js)
+  - [中青看点极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
+  - [中青看点阅读](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js)
   - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
   - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
   - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
