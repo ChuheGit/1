@@ -61,7 +61,6 @@
   - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
   - [快手极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js)
   - [京东到家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js)
-  - [来客有礼](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/lkyl.js)
   - [新浪微博](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js)
   - [人人视频](https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js)
   - [百度贴吧](https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js)
