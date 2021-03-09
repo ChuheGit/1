@@ -103,6 +103,8 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 
 环球挑战赛 = type=cron,cronexp="0 9,12,20,21 2-22 2 *",wake-system=1,timeout=3600,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global.js
 
+超级直播间红包雨 = type=cron,cronexp="30,31 20-23/1 9,12 3 *",wake-system=1,timeout=3600,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js
+
 获取互助码 = type=cron,cronexp="20 13 * * 6",wake-system=1,timeout=120,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js
 
 小米运动 = type=cron,cronexp="15 19 * * *",wake-system=1,timeout=20,script-path=https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js
