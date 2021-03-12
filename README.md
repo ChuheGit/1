@@ -40,7 +40,7 @@
 
 - #### 需要搭配下面两个重写订阅使用
 
-  - ⚠️请确保你添加了[资源解析器](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js)并开启
+  - ⚠️请确保 Quantumult X 添加了[资源解析器](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js)并开启
 
     > 添加资源解析器：在Quantumult X 配置文件中 [general] 部分，加入 `resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js`
     >
