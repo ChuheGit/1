@@ -93,7 +93,7 @@
   - [东东小窝](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_small_home.js)
   - [东东工厂](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdfactory.js)
   - [点点券](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js)
-  - [十元街](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_syj.js)
+  - [赚京豆](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_syj.js)
   - [领京豆额外奖励](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_home.js)
   - [京东汽车](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car.js)
   - [京东汽车兑换](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car_exchange.js)
