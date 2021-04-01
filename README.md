@@ -110,6 +110,7 @@
   - [京小兑](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js)
   - [环球挑战赛](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global.js)
   - [超级直播间红包雨](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js)
+  - [京东手机狂欢城](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js)
   - [获取互助码](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js)
   - [小米运动](https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js)
   - [京东秒秒币](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js)
