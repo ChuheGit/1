@@ -3,7 +3,7 @@
 #!system=ios
 
 [MITM]
-hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,pay.diditaxi.com.cn, nebula.kuaishou.com, daojia.jd.com, api.weibo.cn,pay.sc.weibo.com, *.rr.tv, tieba.baidu.com, *.video.qq.com,v.qq.com, mobwsa.ximalaya.com, ifac*.iqiyi.com, api.m.jd.com, account.huami.com, wq.jd.com,m.jingxi.com, kd.youth.cn,ios.baertt.com, app.kxp.com, *.tenpay.com, bububao.duoshoutuan.com, huodong.fanli.com,passport.fanli.com,gw.fanli.com, veishop.iboxpay.com
+hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,pay.diditaxi.com.cn, nebula.kuaishou.com, daojia.jd.com, api.weibo.cn,pay.sc.weibo.com, tieba.baidu.com, *.video.qq.com,v.qq.com, mobwsa.ximalaya.com, ifac*.iqiyi.com, api.m.jd.com, account.huami.com, wq.jd.com,m.jingxi.com, kd.youth.cn,ios.baertt.com, app.kxp.com, *.tenpay.com, bububao.duoshoutuan.com, huodong.fanli.com,passport.fanli.com,gw.fanli.com, veishop.iboxpay.com
 
 [Script]
 滴滴出行_获取Token = type=http-request,pattern=^https?:\/\/api\.didialift\.com\/beatles\/userapi\/user\/user\/getuserinfo?.*city_id=(\d+).*token=([^&]*),script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js
@@ -20,8 +20,6 @@ hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,
 
 微博 = type=http-request,pattern=https:\/\/api\.weibo\.cn\/\d\/page\/\w+\?gsid,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js
 微博钱包 = type=http-request,pattern=https:\/\/pay\.sc\.weibo\.com\/aj\/mobile\/home\/welfare\/signin\/do\?,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js
-
-人人视频 = type=http-request, pattern=^https:\/\/api\.rr\.tv\/user\/profile,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.cookie.js
 
 百度贴吧 = type=http-request, pattern=^https?:\/\/tieba\.baidu\.com\/?.?,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.cookie.js
 
