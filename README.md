@@ -124,7 +124,6 @@
   
 - #### 薅
 
-  - [百度极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js)
   - [中青看点极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
   - [中青看点阅读](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js)
