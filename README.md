@@ -109,7 +109,10 @@
   - [京小兑](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js)
   - [环球挑战赛](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global.js)
   - [超级直播间红包雨](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js)
-  - [京东手机狂欢城](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_carnivalcity.js)
+  - [东东健康社区](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js)
+  - [东东健康社区收集能量](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health_collect.js)
+  - [幸运大转盘](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js)
+  - [球队赢好礼](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_tcl.js)
   - [获取互助码](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js)
   - [小米运动](https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js)
   - [京东秒秒币](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js)
@@ -121,6 +124,7 @@
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js)
   - [京喜财富岛提现](https://raw.githubusercontent.com/LucaLin233/QuantumultX-Personal-Configuration/main/Profile/jx_cfdtx.js)
+  - [整点京豆雨](https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js)
   
 - #### 薅
 
