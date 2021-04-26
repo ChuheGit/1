@@ -113,6 +113,7 @@
   - [东东健康社区收集能量](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health_collect.js)
   - [幸运大转盘](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js)
   - [球队赢好礼](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_tcl.js)
+  - [领金贴](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jin_tie.js)
   - [获取互助码](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js)
   - [小米运动](https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js)
   - [京东秒秒币](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js)
