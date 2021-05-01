@@ -126,8 +126,8 @@ CrazyJoy任务 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=20,script-
 整点京豆雨 = type=cron,cronexp="1 0-23/1 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js
 
 # 薅
-中青看点极速版 = type=cron,cronexp="*/14 5-23 * * *",wake-system=1,timeout=360,script-path=https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js
+中青看点极速版 = type=cron,cronexp="*/14 5-23 * * *",wake-system=1,timeout=360,script-path=https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js
 
-中青看点浏览赚 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=1800,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js
+中青看点浏览赚 = type=cron,cronexp="20 5 10 * * *",wake-system=1,timeout=1800,script-path=https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js
 
-中青看点阅读 = type=cron,cronexp=35 */30 */2 * * *,wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.json
+中青看点阅读 = type=cron,cronexp=35 */30 */2 * * *,wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js
