@@ -27,4 +27,4 @@ hostname = %APPEND% *.video.qq.com,v.qq.com, mobwsa.ximalaya.com, ifac*.iqiyi.co
 中青看点 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json,requires-body=1,script-path=https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js
 中青看点 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/\w+\/withdraw\d?\.json,requires-body=1,script-path=https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js
 中青看点浏览赚 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/task\/browse_start\.json,requires-body=1,script-path=https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js
-中青看点看看赚 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/Nameless\/adlickstart\.json,requires-body=1,script-path=https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.json
+中青看点看看赚 = type=http-request,pattern=https:\/\/ios\.baertt\.com\/v5\/Nameless\/adlickstart\.json,requires-body=1,script-path=https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth_gain.js
