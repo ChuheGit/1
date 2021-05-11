@@ -58,17 +58,12 @@
 
 - #### 签到
 
-  - [滴滴出行](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/didichuxing)
-  - [快手极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js)
-  - [京东到家](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js)
-  - [新浪微博](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/weibo.js)
-  - [百度贴吧](https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js)
   - [腾讯视频](https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js)
   - [喜马拉雅](https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js)
   - [爱奇艺](https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js)
   - [京东](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js)
   - [京喜](https://jdsharedresourcescdn.azureedge.net/jdresource/jx_sign.js)
-  
+
 - #### 京东活动
 
   - [东东农场](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_fruit.js)
@@ -133,11 +128,6 @@
   - [中青看点极速版](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js)
   - [中青看点浏览赚](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js)
   - [中青看点阅读](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js)
-  - [葱花视频](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js)
-  - [腾讯自选股](https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js)
-  - [步步宝](https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js)
-  - [返利网](https://raw.githubusercontent.com/ChuheGit/1/ZIYE/Task/flw.js)
-  - [笑谱](https://raw.githubusercontent.com/ChuheGit/1/ZIYE/Task/iboxpay.js)
 
 ## 补充说明
 
