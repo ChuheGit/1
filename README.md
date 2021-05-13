@@ -146,18 +146,14 @@
   `https://raw.githubusercontent.com/whyour/hundun/master/quanx/whyour.boxjs.json`
 
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` 
-  
-  `https://raw.githubusercontent.com/CenBoMin/GithubSync/main/cenbomin.box.json`
-  
-  `https://raw.githubusercontent.com/ChuheGit/1/ZIYE/Task/ziye.boxjs.json`
 
 ## 鸣谢
 
 - #### 🌹致敬无私分享辛劳成果的作者们🌹 （排名不分先后）
 
-  > **特别感谢 [Shawn](https://github.com/KOP-XIAO/QuantumultX-Surge-API) 的 API 支持**
-
   > 如有遗漏或差错，绝非本意，敬请谅解，烦请[联系](https://t.me/ChuheBot)更正
+
+  > **特别感谢 [Shawn](https://github.com/KOP-XIAO/QuantumultX-Surge-API) 的 API 支持**
 
   
 
@@ -171,9 +167,6 @@
   - [ziye12](https://github.com/ziye12/JavaScript/tree/master)
   - [yangtingxiao](https://github.com/yangtingxiao/QuantumultX/tree/master)
   - [songyangzz](https://github.com/songyangzz/QuantumultX/tree/master)
-  - [MoPoQAQ](https://github.com/MoPoQAQ/Script/tree/main)
-  - [elecV2](https://github.com/elecV2/QuantumultX-Tools)
-  - [CenBoMin](https://github.com/CenBoMin/QuantumultX/tree/master)
   
 - #### 图标
 
