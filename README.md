@@ -8,7 +8,7 @@
 
 - #### 添加 Module
 
-  ![https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/Gallery.PNG]()
+  <img src="https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/Gallery.PNG" alt="image" style="zoom:50%;" />
 
   - 任务合集（包含下方整个资源列表）
 
