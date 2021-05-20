@@ -8,8 +8,6 @@
 
 - #### 添加 Module
 
-  <img src="https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/Gallery.PNG" alt="image" style="zoom:50%;" />
-
   - 任务合集（包含下方整个资源列表）
 
     `https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
@@ -32,7 +30,7 @@
 
 - #### 添加 Gallery
 
-- 
+  <img src="https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/Gallery.PNG" alt="image" style="zoom: 25%;" />
 
   - 任务合集（包含下方整个资源列表）
 
