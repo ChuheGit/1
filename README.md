@@ -8,7 +8,7 @@
 
 - #### 添加 Module
 
-  <img src="C:\Users\Administrator\Desktop\IMG_2211.PNG" alt="IMG_2211" style="zoom:50%;" />
+  <img src="https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/Gallery.png" alt="IMG_2211" style="zoom:50%;" />
 
   - 任务合集（包含下方整个资源列表）
 
