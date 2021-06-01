@@ -64,8 +64,7 @@
   - [喜马拉雅](https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js)
   - [爱奇艺](https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js)
   - [京东](https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js)
-  - [京喜](https://jdsharedresourcescdn.azureedge.net/jdresource/jx_sign.js)
-
+  
 - #### 京东活动
 
   - [东东农场](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_fruit.js)
@@ -100,16 +99,11 @@
   - [口袋书店](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bookshop.js)
   - [签到领现金](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_cash.js)
   - [闪购盲盒](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_sgmh.js)
-  - [小鸽有礼2](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xgyl.js)
   - [女装盲盒](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js)
-  - [她的节享京豆](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_firecrackers.js)
-  - [京小兑](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js)
-  - [环球挑战赛](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global.js)
   - [超级直播间红包雨](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js)
   - [东东健康社区](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js)
   - [东东健康社区收集能量](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health_collect.js)
   - [幸运大转盘](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js)
-  - [球队赢好礼](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_tcl.js)
   - [领金贴](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jin_tie.js)
   - [每日抽奖](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_lottery.js)
   - [跳跳乐瓜分京豆](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jump.js)
