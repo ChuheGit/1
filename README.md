@@ -112,6 +112,8 @@
   - [618动物联萌](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_zoo.js)
   - [家电星推官](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xtg.js)
   - [金榜创造营](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_gold_creator.js)
+  - [5G超级盲盒](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_mohe.js)
+  - [明星小店](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_star_shop.js)
   - [获取互助码](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js)
   - [小米运动](https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js)
   - [京东秒秒币](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js)
