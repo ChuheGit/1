@@ -116,6 +116,7 @@
   - [明星小店](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_star_shop.js)
   - [新潮品牌狂欢](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_mcxhd.js)
   - [京喜领88元红包](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxlhb.js)
+  - [省钱大赢家之翻翻乐](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_big_winner.js)
   - [获取互助码](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js)
   - [小米运动](https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js)
   - [京东秒秒币](https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js)
