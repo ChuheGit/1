@@ -145,7 +145,7 @@
 
   `https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd.boxjs.json`
 
-  `https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json`
+  `https://raw.githubusercontent.com/Sunert/Script/master/Task/sunert.boxjs.json`
 
   `https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json`
 
