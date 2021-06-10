@@ -143,6 +143,8 @@
 
   > BoxJs 使用教程：https://chavyleung.gitbook.io/boxjs/
 
+  `https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd.boxjs.json`
+
   `https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json`
 
   `https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json`
@@ -150,7 +152,7 @@
   `https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json`
 
   `https://raw.githubusercontent.com/whyour/hundun/master/quanx/whyour.boxjs.json`
-
+  
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` 
 
 ## 鸣谢
