@@ -129,7 +129,9 @@
   - [惊喜农场](https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js)
   - [京喜财富岛](https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js)
   - [京喜财富岛提现](https://raw.githubusercontent.com/LucaLin233/QuantumultX-Personal-Configuration/main/Profile/jx_cfdtx.js)
-  - [整点京豆雨](https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js)
+  - [整点京豆雨](https://raw.githubusercontent.com/longzhuzhu/nianyu/main/qx/long_super_redrain.js)
+  - [半点京豆雨](https://raw.githubusercontent.com/longzhuzhu/nianyu/main/qx/long_half_redrain.js)
+  - [主会场红包雨](https://raw.githubusercontent.com/longzhuzhu/nianyu/main/qx/long_hby_lottery.js)
   
 - #### 薅
 
@@ -154,6 +156,8 @@
   `https://raw.githubusercontent.com/whyour/hundun/master/quanx/whyour.boxjs.json`
   
   `https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json` 
+  
+  `https://raw.githubusercontent.com/longzhuzhu/nianyu/main/qx/longzhuzhu.boxjs.json` 
 
 ## 鸣谢
 
