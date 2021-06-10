@@ -111,6 +111,7 @@
   - [城城领现金](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_city.js)
   - [618动物联萌](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_zoo.js)
   - [618动物联萌收集金币](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_zooCollect.js)
+  - [惊喜牧场](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_jxmc.js)
   - [家电星推官](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_xtg.js)
   - [金榜创造营](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_gold_creator.js)
   - [5G超级盲盒](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_mohe.js)
