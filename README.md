@@ -14,7 +14,7 @@
 
   - 京东合集（仅包含京东任务）
 
-    `https://dove.589669.xyz/subfilter?filter=jd_%7Cjx_%7CJD&inline=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
+    `https://dove.589669.xyz/subfilter?filter=JD_%7Cjd_%7Cjx_%7Clong_&inline=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
 - #### 需要搭配下面两个 Module 使用
 
@@ -38,7 +38,7 @@
 
   - 京东合集（仅包含京东任务）
 
-    `https://dove.589669.xyz/task2qxgallery?img=1&filter=jd_%7Cjx_%7CJD&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
+    `https://dove.589669.xyz/task2qxgallery?img=1&filter=JD_%7Cjd_%7Cjx_%7Clong_&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
 - #### 需要搭配下面两个重写订阅使用
 
