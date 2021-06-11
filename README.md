@@ -180,6 +180,7 @@
   - [ziye12](https://github.com/ziye12/JavaScript/tree/master)
   - [yangtingxiao](https://github.com/yangtingxiao/QuantumultX/tree/master)
   - [songyangzz](https://github.com/songyangzz/QuantumultX/tree/master)
+  - [longzhuzhu](https://github.com/longzhuzhu)
   
 - #### 图标
 
