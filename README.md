@@ -109,7 +109,7 @@
   - [跳跳乐瓜分京豆](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_jump.js)
   - [京东手机狂欢城](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_carnivalcity.js)
   - [城城领现金](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_city.js)
-  - [618动物联萌](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_zoo.js)
+  - [618动物联萌](https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js)
   - [618动物联萌收集金币](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_zooCollect.js)
   - [惊喜牧场](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_jxmc.js)
   - [家电星推官](https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_xtg.js)
