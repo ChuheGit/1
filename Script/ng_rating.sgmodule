@@ -1,4 +1,4 @@
-#!name=eval_script.js module
+#!name=nf_rating
 
 [MITM]
 hostname = %INSERT% ios-*.prod.ftl.netflix.com,ios.prod.ftl.netflix.com
