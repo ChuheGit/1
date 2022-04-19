@@ -56,7 +56,7 @@ let result = {
   "title": '    📺  流媒体服务查询',
   "Netflix": '<b>Netflix: </b>检测失败，请重试 ❗️',
   "YouTube": '<b>YouTube: </b>检测失败，请重试 ❗️',
-  "Disney": "<b>Disneyᐩ: </b>检测失败，请重试 ❗️",
+  "Disney": "<b>Disney+: </b>检测失败，请重试 ❗️",
   //"Google": "Google 定位: 检测失败，请重试"
 
 }
@@ -71,16 +71,16 @@ const message = {
   console.log(result["Netflix"])
   if (status==STATUS_COMING) {
     //console.log(1)
-    result["Disney"] = "<b>Disneyᐩ:</b> 即将登陆 ➟ "+'⟦'+flags.get(region.toUpperCase())+"⟧ ⚠️"
+    result["Disney"] = "<b>Disney+:</b> 即将登陆 ➟ "+'⟦'+flags.get(region.toUpperCase())+"⟧ ⚠️"
   } else if (status==STATUS_AVAILABLE){
     //console.log(2)
-    result["Disney"] = "<b>Disneyᐩ:</b> 支持 ➟ "+'⟦'+flags.get(region.toUpperCase())+"⟧ 🎉"
+    result["Disney"] = "<b>Disney+:</b> 支持 ➟ "+'⟦'+flags.get(region.toUpperCase())+"⟧ 🎉"
     console.log(result["Disney"])
   } else if (status==STATUS_NOT_AVAILABLE) {
     //console.log(3)
-    result["Disney"] = "<b>Disneyᐩ:</b> 未支持 🚫 "
+    result["Disney"] = "<b>Disney+:</b> 未支持 🚫 "
   } else if (status==STATUS_TIMEOUT) {
-    result["Disney"] = "<b>Disneyᐩ:</b> 检测超时 🚦 "
+    result["Disney"] = "<b>Disney+:</b> 检测超时 🚦 "
   }
 
   let content = "------------------------------"+"</br>"+([result["Netflix"],result["YouTube"],result["Disney"]]).join("</br></br>")
