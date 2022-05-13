@@ -1,4 +1,5 @@
 #!name=jd_tb_price
+#!desc=京东&淘宝 历史价格
 
 [MITM]
 hostname = %INSERT% api.m.jd.com, trade-acs.m.taobao.com

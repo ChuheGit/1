@@ -1,4 +1,5 @@
 #!name=nf_rating
+#!desc=Netflix 评分
 
 [MITM]
 hostname = %INSERT% ios-*.prod.ftl.netflix.com,ios.prod.ftl.netflix.com
